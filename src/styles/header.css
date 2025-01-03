@@ -15,7 +15,7 @@ header {
 }
 
 #nav_logo {
-    font-size: 24px;
+    font-size: 19px;
     color: var(--color-primary-6);
 }
 
@@ -23,6 +23,7 @@ header {
     display: flex;
     list-style: none;
     gap: 48px;
+    font-size: 15px;
 }
 
 .nav-item a {
